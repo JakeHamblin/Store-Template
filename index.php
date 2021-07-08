@@ -81,6 +81,10 @@
 			</div>
 		</div>
 	</section>
+	<section>
+	<div class="00-footer">
+	<f>© Brackzz. All rights reserved. | Email: james@Brackzz.com<f>
+	</section>
 	<script src="<?php echo $domain ?>/js/main.js"></script>
 </body>
 </html>
