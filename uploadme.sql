@@ -82,7 +82,7 @@ CREATE TABLE `reviews` (
 --
 
 INSERT INTO `reviews` (`id`, `order1`, `name`, `logo`, `review`, `rating`) VALUES
-(1, 2, 'Jake Hamblin', 'https://jakehamblin.com/images/logos.png', 'This is just a test about the test of the reviews. A lot of tests, aye?', '5');
+(1, 2, 'Jake Hamblin', 'https://faxes.zone/assets/logo.png', 'This is just a test about the test of the reviews. A lot of tests, aye?', '5');
 
 -- --------------------------------------------------------
 
@@ -130,7 +130,7 @@ CREATE TABLE `siteinfo` (
 --
 
 INSERT INTO `siteinfo` (`id`, `name`, `domain`, `logo`, `color`, `description`, `twitter`, `backgroundimage`, `sitekey`, `secretkey`) VALUES
-(1, 'Jake Hamblin', 'https://projects.jakehamblin.com/storetemplate', 'https://jakehamblin.com/images/logo.png', '3fa3eb', 'Software programmer and website developer', 'jekeltor', 'https://cdn.discordapp.com/attachments/703843714547712000/746197532664791140/unknown.png', '6LdRnMEZAAAAAPfyVX1gspivcvL-Z7clZdvhEeBv', '6LdRnMEZAAAAACQoIA2Mot5FS6wWcM47gKtPbV9n');
+(1, 'Jake Hamblin', 'https://projects.jakehamblin.com/storetemplate', 'https://faxes.zone/assets/logo.png', '3fa3eb', 'Software programmer and website developer', 'jekeltor', 'https://cdn.discordapp.com/attachments/703843714547712000/746197532664791140/unknown.png', '6LdRnMEZAAAAAPfyVX1gspivcvL-Z7clZdvhEeBv', '6LdRnMEZAAAAACQoIA2Mot5FS6wWcM47gKtPbV9n');
 
 -- --------------------------------------------------------
 
@@ -152,7 +152,7 @@ CREATE TABLE `team` (
 --
 
 INSERT INTO `team` (`id`, `order1`, `name`, `logo`, `rank`, `about`) VALUES
-(1, 1, 'Jake Hamblin', 'https://jakehamblin.com/images/logos.png', 'Website Developer', 'This is just a test');
+(1, 1, 'Jake Hamblin', 'https://faxes.zone/assets/logo.png', 'Website Developer', 'This is just a test');
 
 --
 -- Indexes for dumped tables
